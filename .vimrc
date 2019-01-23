@@ -20,6 +20,7 @@ call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
 Plugin 'tmhedberg/SimpylFold'
+Plugin 'udalov/kotlin-vim'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'Valloric/YouCompleteMe'
 
